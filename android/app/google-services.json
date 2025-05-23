@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207562734180",
+    "project_id": "notes-app-8cb88",
+    "storage_bucket": "notes-app-8cb88.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207562734180:android:d7d5caf9f56b8b4965fd71",
+        "android_client_info": {
+          "package_name": "com.hasib.notes_app_curetutors_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_nNfnDDxIauyOxzMxGF2KBp_Kx1UiWfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
